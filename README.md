@@ -1,2 +1,0 @@
-# beginpersonalsiteexample
-Begin app
